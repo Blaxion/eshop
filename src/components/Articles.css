@@ -1,0 +1,16 @@
+.mes-articles{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card-article{
+    text-align: center;
+}
+
+.bg-red{
+    background-color: red;
+}
+.bg-orange{
+    background-color: orange;
+}
